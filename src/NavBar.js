@@ -8,7 +8,6 @@ export const NavBar = () => {
     return ( 
     <nav className="navbar navbar-expand-lg navbar-info bg-info">
         <div className="container-fluid">
-          <img src="././favicon.ico" className="d-inline-block align-top" width="30" height="24"></img>
           <a className="navbar-brand ml-1">Hooks App</a>
         <div className="collapse navbar-collapse">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
