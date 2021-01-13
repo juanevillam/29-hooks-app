@@ -1,0 +1,23 @@
+body {
+  background-color: #21232A;
+  color: #61DBFB;
+}
+
+nav {
+  color: black;
+}
+
+input {
+  color: black;
+  font-size: 1.2rem;
+  width: 100%;
+}
+
+pre {
+  color: white;
+  }
+
+  li {
+    color: black;
+  }
+  
